@@ -35,27 +35,6 @@ The **Bitsy Platformer System** is a custom extension for the Bitsy game engine,
 3. Add platforms, walls, and other objects.
 4. Play and enjoy your platformer game!
 
-## Example
-
-```bitsy
-// Example Bitsy Script
-[player]
-sprite: player_sprite
-start room: room1
-start position: (0, 0)
-
-[room1]
-tiles: platform_tiles
-
-[platform_tiles]
-tile: platform
-tile: wall
-
-[platformer_settings]
-gravity: 0.5
-jump_strength: 5
-```
-
 ## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests.
