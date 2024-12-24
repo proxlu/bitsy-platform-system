@@ -1,6 +1,3 @@
-# bitsy-platformer-system
-Plaformer system for bitsy.
-
 # Bitsy Platformer System
 
 ## Overview
